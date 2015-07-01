@@ -1,4 +1,3 @@
-# Copyright © 2014, Pittsburgh Supercomputing Center (PSC).  All Rights Reserved. 
 
 
 from ryu.base import app_manager
