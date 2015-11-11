@@ -17,10 +17,19 @@ Installing using pip:
 $ pip install ryu
 ```
 
+### Obtaining DANCES-controller
+
+Download from github:
+
+```
+$ git clone git://github.com/pscedu/DANCES-controller.git
+```
+
 ### Running
 
 Run with ryu-manager:
 
 ```
+$ cd DANCES-controller/
 $ ryu-manager controllers/dances-controller.py
 ```
