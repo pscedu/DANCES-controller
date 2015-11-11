@@ -19,7 +19,7 @@ $ pip install ryu
 
 ### Running
 
-Run with ryu-manager (uses valve.yaml from the current working directory):
+Run with ryu-manager:
 
 ```
 $ ryu-manager controllers/dances-controller.py
