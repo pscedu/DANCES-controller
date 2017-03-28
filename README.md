@@ -33,3 +33,8 @@ Run with ryu-manager:
 $ cd DANCES-controller/
 $ ryu-manager controllers/dances-controller.py
 ```
+
+### Acknowledgements
+
+This material is based on work supported by the National
+Science Foundation under Grant Number 1341005.
