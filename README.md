@@ -1,6 +1,6 @@
 # DANCES-controller
 
-Centralized Ryu controller for the DANCES project.
+Centralized Ryu controller for the [DANCES](https://www.dances-sdn.org/) project.
 
 ### Installing Ryu
 
